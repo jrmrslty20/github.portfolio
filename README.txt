@@ -1,0 +1,1 @@
+JEROME RESULTAY PORTFOLIO\n\nFiles: index.html, style.css, profile.jpg\nUpload all three files to the root of your GitHub repository. Then open Settings > Pages, choose Deploy from a branch, select main and /(root), and Save.\n
